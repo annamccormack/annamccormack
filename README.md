@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - How to reach me: anna.mccormack94@gmail.com 
-                   https://www.linkedin.com/in/anna-mccormack94/   
+
+- LinkedIn: https://www.linkedin.com/in/anna-mccormack94/   
                    
 - Pronouns: She/Her
